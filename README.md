@@ -13,7 +13,7 @@
 
 <div align="center">
 <details>
-<summary><img src="https://img.shields.io/badge/English-21262d?style=for-the-badge" alt="English" /></summary>
+<summary><kbd>&nbsp;<b>English</b>&nbsp;</kbd></summary>
 <div align="left">
 
 <h2>About me</h2>
@@ -166,7 +166,7 @@ const leno = {
 </div>
 </details>
 <details open>
-<summary><img src="https://img.shields.io/badge/Espa%C3%B1ol-1f6feb?style=for-the-badge" alt="Español" /></summary>
+<summary><kbd>&nbsp;<b>Español</b>&nbsp;</kbd></summary>
 <div align="left">
 
 <h2>Sobre mí</h2>
