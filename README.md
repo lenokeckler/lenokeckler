@@ -8,6 +8,15 @@
 </p>
 
 <p align="center">
+  <a href="https://www.tec.ac.cr/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/brand/tec-dark.svg" />
+      <img src="assets/brand/tec-light.svg" alt="Tecnológico de Costa Rica" height="30" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Asistente+de+Arquitectura+de+Computadoras+%40+TEC;Del+agua+del+Arenal+al+c%C3%B3digo" alt="Asistente de Arquitectura de Computadoras @ TEC" />
 </p>
 
@@ -28,44 +37,52 @@ const leno = {
 
 <table>
   <tr>
-    <td width="55%" valign="middle">
-      <a href="https://github.com/lenokeckler/mediacase-platform"><img src="https://raw.githubusercontent.com/lenokeckler/mediacase-platform/main/docs/img/monitor-3-nodos.png" alt="Monitor de MediaCase con tres nodos procesando casos" width="100%" /></a>
-    </td>
-    <td width="45%" valign="top">
-      <img src="https://raw.githubusercontent.com/lenokeckler/mediacase-platform/main/dashboard/src/app/public/logo.png" alt="MediaCase" width="56" height="56" />
-      <h3>MediaCase</h3>
-      <p>Plataforma distribuida que procesa archivos multimedia por casos. Un coordinador en Go reparte las sub-tareas entre workers que corren en varias máquinas, las sincroniza con un barrier y cierra cada caso con un reporte consolidado, con monitoreo de recursos en vivo.</p>
+    <td width="50%" valign="top">
+      <a href="https://github.com/lenokeckler/arenal-watersports-ops."><img src="https://raw.githubusercontent.com/lenokeckler/arenal-watersports-ops./main/docs/img/portada.png" alt="Arenal Ops: tablero, reservas por despachar y detalle de una reserva" width="100%" /></a>
+      <h3>Arenal Ops</h3>
+      <p>Sistema de operaciones mobile-first para un operador de deportes acuáticos en el Lago Arenal: reservas, despacho, estado de las máquinas e inventario en tiempo real.</p>
       <p>
-        <a href="https://go.dev/" title="Go"><img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go" width="32" height="32" /></a>
-        <a href="https://redis.io/" title="Redis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" width="32" height="32" /></a>
-        <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="32" height="32" /></a>
-        <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="32" height="32" /></a>
-        <a href="https://prometheus.io/" title="Prometheus"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" title="Prometheus" width="32" height="32" /></a>
-        <a href="https://grafana.com/" title="Grafana"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana" width="32" height="32" /></a>
-        <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="32" height="32" /></a>
+        <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="28" height="28" /></a>
+        <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="28" height="28" /></a>
+        <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="28" height="28" /></a>
+        <a href="https://redux-toolkit.js.org/" title="Redux Toolkit"><img src="https://skillicons.dev/icons?i=redux" alt="Redux Toolkit" title="Redux Toolkit" width="28" height="28" /></a>
+        <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="28" height="28" /></a>
+        <a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" width="28" height="28" /></a>
+        <a href="https://vitest.dev/" title="Vitest"><img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" title="Vitest" width="28" height="28" /></a>
       </p>
-      <p><sub>IC-6600 Principios de Sistemas Operativos · TEC · Equipo de 3</sub></p>
-      <a href="https://github.com/lenokeckler/mediacase-platform"><img src="https://img.shields.io/badge/Ver%20repositorio-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" /></a>
+      <p><sub>Proyecto personal · En producción</sub></p>
+      <a href="https://github.com/lenokeckler/arenal-watersports-ops."><img src="https://img.shields.io/badge/Ver%20repositorio-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Ver repositorio" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/lenokeckler/mediacase-platform"><img src="https://raw.githubusercontent.com/lenokeckler/mediacase-platform/main/docs/img/monitor-3-nodos.png" alt="Monitor de MediaCase con tres nodos procesando casos" width="100%" /></a>
+      <h3>MediaCase</h3>
+      <p>Plataforma distribuida que procesa archivos multimedia por casos: un coordinador en Go reparte el trabajo entre varias máquinas y monitorea sus recursos en vivo.</p>
+      <p>
+        <a href="https://go.dev/" title="Go"><img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go" width="28" height="28" /></a>
+        <a href="https://redis.io/" title="Redis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" width="28" height="28" /></a>
+        <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="28" height="28" /></a>
+        <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="28" height="28" /></a>
+        <a href="https://prometheus.io/" title="Prometheus"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" title="Prometheus" width="28" height="28" /></a>
+        <a href="https://grafana.com/" title="Grafana"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana" width="28" height="28" /></a>
+        <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="28" height="28" /></a>
+      </p>
+      <p><sub>Principios de Sistemas Operativos · TEC · Equipo de 3</sub></p>
+      <a href="https://github.com/lenokeckler/mediacase-platform"><img src="https://img.shields.io/badge/Ver%20repositorio-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Ver repositorio" /></a>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td width="55%" valign="middle">
+    <td width="50%" valign="top">
       <a href="https://github.com/lenokeckler/MINI-GO-LENO"><img src="https://raw.githubusercontent.com/lenokeckler/MINI-GO-LENO/main/documentation/img/editor-errores-semanticos.png" alt="Editor de MiniGo mostrando errores semánticos con línea y columna" width="100%" /></a>
-    </td>
-    <td width="45%" valign="top">
       <h3>MiniGo Compiler</h3>
-      <p>Compilador para un subconjunto de Go que genera código x86-64 real. Hace análisis léxico y sintáctico con ANTLR4, chequeo de tipos y alcances con sugerencias “did you mean?”, y genera LLVM IR. Incluye un editor en Qt6 que compila, ejecuta y marca los errores por línea y columna.</p>
+      <p>Compilador de un subconjunto de Go a x86-64 con ANTLR4 y LLVM, con un editor en Qt6 que compila, ejecuta y marca los errores por línea y columna.</p>
       <p>
-        <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="32" height="32" /></a>
-        <a href="https://llvm.org/" title="LLVM"><img src="assets/icons/llvm.svg" alt="LLVM" title="LLVM" width="32" height="32" /></a>
-        <a href="https://www.qt.io/" title="Qt"><img src="https://skillicons.dev/icons?i=qt" alt="Qt" title="Qt" width="32" height="32" /></a>
-        <a href="https://cmake.org/" title="CMake"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake" title="CMake" width="32" height="32" /></a>
+        <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="28" height="28" /></a>
+        <a href="https://llvm.org/" title="LLVM"><img src="assets/icons/llvm.svg" alt="LLVM" title="LLVM" width="28" height="28" /></a>
+        <a href="https://www.qt.io/" title="Qt"><img src="https://skillicons.dev/icons?i=qt" alt="Qt" title="Qt" width="28" height="28" /></a>
+        <a href="https://cmake.org/" title="CMake"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake" title="CMake" width="28" height="28" /></a>
       </p>
       <p><sub>Compiladores e Intérpretes · TEC · Proyecto individual</sub></p>
-      <a href="https://github.com/lenokeckler/MINI-GO-LENO"><img src="https://img.shields.io/badge/Ver%20repositorio-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" /></a>
+      <a href="https://github.com/lenokeckler/MINI-GO-LENO"><img src="https://img.shields.io/badge/Ver%20repositorio-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Ver repositorio" /></a>
     </td>
   </tr>
 </table>
