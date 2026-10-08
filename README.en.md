@@ -23,7 +23,6 @@ const leno = {
   name: "Magdaleno Gómez Díaz",
   studies: "Computer Engineering @ Instituto Tecnológico de Costa Rica",
   role: "Teaching Assistant · Computer Architecture",
-  interests: ["Web development", "Artificial intelligence", "Linux"],
   languages: ["Spanish", "English (C1)"],
   before: "5 years as a water sports guide in La Fortuna",
 };

@@ -23,7 +23,6 @@ const leno = {
   nombre: "Magdaleno Gómez Díaz",
   estudio: "Ingeniería en Computación @ Tecnológico de Costa Rica",
   trabajo: "Asistente de profesores · Arquitectura de Computadoras",
-  intereses: ["Desarrollo web", "Inteligencia artificial", "Linux"],
   idiomas: ["Español", "Inglés (C1)"],
   antes: "5 años como guía de deportes acuáticos en La Fortuna",
 };
