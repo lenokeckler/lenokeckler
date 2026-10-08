@@ -11,8 +11,10 @@
   </a>
 </p>
 
+<div align="center">
 <details>
 <summary><img src="https://img.shields.io/badge/English-21262d?style=for-the-badge" alt="English" /></summary>
+<div align="left">
 
 <h2>About me</h2>
 
@@ -161,10 +163,11 @@ const leno = {
   <a href="https://www.linkedin.com/in/magdaleno-gomez/"><img src="https://img.shields.io/badge/LinkedIn-Magdaleno%20G%C3%B3mez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Magdaleno Gómez on LinkedIn" /></a>
 </p>
 
+</div>
 </details>
-
 <details open>
 <summary><img src="https://img.shields.io/badge/Espa%C3%B1ol-1f6feb?style=for-the-badge" alt="Español" /></summary>
+<div align="left">
 
 <h2>Sobre mí</h2>
 
@@ -313,6 +316,8 @@ const leno = {
   <a href="https://www.linkedin.com/in/magdaleno-gomez/"><img src="https://img.shields.io/badge/LinkedIn-Magdaleno%20G%C3%B3mez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Magdaleno Gómez" /></a>
 </p>
 
+</div>
 </details>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,45:0b3a7e,100:0d1117&height=120&section=footer" alt="" width="100%" />
