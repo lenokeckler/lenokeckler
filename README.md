@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Asistente+de+Arquitectura+de+Computadoras+%40+TEC;Del+agua+del+Arenal+al+c%C3%B3digo" alt="Asistente de Arquitectura de Computadoras @ TEC" />
-</p>
-
 <h2>Sobre mí</h2>
 
 ```ts

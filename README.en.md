@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Computer+Architecture+Teaching+Assistant+%40+TEC;From+the+Arenal+waters+to+code" alt="Computer Architecture Teaching Assistant @ TEC" />
-</p>
-
 <h2>About me</h2>
 
 ```ts
