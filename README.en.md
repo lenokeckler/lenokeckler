@@ -50,6 +50,26 @@ const leno = {
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="55%" valign="middle">
+      <a href="https://github.com/lenokeckler/MINI-GO-LENO"><img src="https://raw.githubusercontent.com/lenokeckler/MINI-GO-LENO/main/documentation/img/editor-errores-semanticos.png" alt="MiniGo editor showing semantic errors with line and column" width="100%" /></a>
+    </td>
+    <td width="45%" valign="top">
+      <h3>MiniGo Compiler</h3>
+      <p>Compiler for a subset of Go that emits real x86-64 code. It does lexing and parsing with ANTLR4, type and scope checking with “did you mean?” hints, and generates LLVM IR. It ships with a Qt6 editor that compiles, runs and flags errors by line and column.</p>
+      <p>
+        <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="32" height="32" /></a>
+        <a href="https://llvm.org/" title="LLVM"><img src="assets/icons/llvm.svg" alt="LLVM" title="LLVM" width="32" height="32" /></a>
+        <a href="https://www.qt.io/" title="Qt"><img src="https://skillicons.dev/icons?i=qt" alt="Qt" title="Qt" width="32" height="32" /></a>
+        <a href="https://cmake.org/" title="CMake"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake" title="CMake" width="32" height="32" /></a>
+      </p>
+      <p><sub>Compilers and Interpreters · TEC · Solo project</sub></p>
+      <a href="https://github.com/lenokeckler/MINI-GO-LENO"><img src="https://img.shields.io/badge/View%20repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
+    </td>
+  </tr>
+</table>
+
 <h2>Tech stack</h2>
 
 <table>
@@ -66,13 +86,14 @@ const leno = {
     </td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
+    <td><b>Frontend &amp; GUI</b></td>
     <td>
       <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="40" height="40" /></a>
       <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="40" height="40" /></a>
       <a href="https://svelte.dev/" title="Svelte"><img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" title="Svelte" width="40" height="40" /></a>
       <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" /></a>
       <a href="https://redux-toolkit.js.org/" title="Redux Toolkit"><img src="https://skillicons.dev/icons?i=redux" alt="Redux Toolkit" title="Redux Toolkit" width="40" height="40" /></a>
+      <a href="https://www.qt.io/" title="Qt"><img src="https://skillicons.dev/icons?i=qt" alt="Qt" title="Qt" width="40" height="40" /></a>
     </td>
   </tr>
   <tr>
@@ -117,6 +138,8 @@ const leno = {
       <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40" height="40" /></a>
       <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="40" height="40" /></a>
       <a href="https://www.atlassian.com/software/jira" title="Jira"><img src="assets/icons/jira.svg" alt="Jira" title="Jira" width="40" height="40" /></a>
+      <a href="https://cmake.org/" title="CMake"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake" title="CMake" width="40" height="40" /></a>
+      <a href="https://llvm.org/" title="LLVM"><img src="assets/icons/llvm.svg" alt="LLVM" title="LLVM" width="40" height="40" /></a>
     </td>
   </tr>
 </table>
